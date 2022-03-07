@@ -25,4 +25,10 @@ Macros and config files are separeted in the folders.
 
 # Mods
 
-* TBA
+* [Afterburner Toolhead Board v3.rabbit](https://github.com/VoronDesign/Voron-Hardware/tree/master/Afterburner_Toolhead_PCB)
+* [C920 Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Iakabos/C920_mount)
+* [DIN fan](/mods/DIN_fan/)
+* Frame thermistor
+* [Nevermore v5 duo](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V5_Duo/V2)
+* [Voron Switchwire spool holder](https://github.com/VoronDesign/Voron-Switchwire/blob/master/STL/spool_holder_base.stl)
+* [Voron LED Bar Clip - Remixed for 3030 from https://bit.ly/3CkBe5D](/mods/LED_bar_clip/)

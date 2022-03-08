@@ -21,6 +21,7 @@ Macros and config files are separeted in the folders.
 * Keenovo silicone AC heater (300mm x 300mm 600W 220V/240V)
 * SSR Omron G3NA-210B-UTU-DC5-24
 * Afterburner Toolhead Board v3.rabbit
+* DIN terminal blocks
 
 
 # Mods
@@ -33,3 +34,4 @@ Macros and config files are separeted in the folders.
 * [Voron Switchwire spool holder](https://github.com/VoronDesign/Voron-Switchwire/blob/master/STL/spool_holder_base.stl)
 * [Voron LED Bar Clip - Remixed for 3030 from https://bit.ly/3CkBe5D](/mods/LED_bar_clip/)
 * [Z umbilical](/mods/Z-umbilical/)
+* [Voron Trident DIN mount- Remixed for 3030 from https://bit.ly/3tEoLph](/mods/DIN_frame_mount/)

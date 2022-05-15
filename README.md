@@ -7,7 +7,7 @@ This repo contains data on HVT0097.
 
 # Config
 
-Klipper configs for HVT0097 (HD9 315x315x340) printer running fluidd.
+Klipper configs for HVT0097 (HD12 315x315x340) printer running fluidd.
 
 Macros and config files are separeted in the folders.
 
@@ -22,6 +22,10 @@ Macros and config files are separeted in the folders.
 * SSR Omron G3NA-210B-UTU-DC5-24
 * Afterburner Toolhead Board v3.rabbit
 * DIN terminal blocks
+* Type B Mini 12864 Display
+* [Shelly 1PM+](https://github.com/jontek2/HVT0097-klipper_config/blob/main/moonraker.conf#L44-L50)
+
+
 
 
 # Mods

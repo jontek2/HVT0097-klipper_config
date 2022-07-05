@@ -20,14 +20,14 @@ Macros and config files are separeted in the folders.
 * Mean well MDR-40-5
 * Keenovo silicone AC heater (300mm x 300mm 600W 220V/240V)
 * SSR Omron G3NA-210B-UTU-DC5-24
-* Afterburner Toolhead Board v3.rabbit
+* Ebb36 v1.1 + BTT U2C
 * DIN terminal blocks
 * Type B Mini 12864 Display
 * [Shelly 1PM+](https://github.com/jontek2/HVT0097-klipper_config/blob/main/moonraker.conf#L44-L50)
 
 # Other
 
-* NF Crazy Magnum 
+* Rapido UHF+ 
 * Mini 12864 LCD
 * Emergency stop button
 

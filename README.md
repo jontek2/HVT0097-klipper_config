@@ -11,7 +11,7 @@ Klipper configs for HVT0097 (HD12 315x315x340) printer running fluidd.
 
 Macros and config files are separeted in the folders.
 
-### Main electronics
+## Main electronics
 
 - Mainboard: Octopus Pro w/ TMC2209
 - A/B motors: E3D High Torque Motor
@@ -23,23 +23,24 @@ Macros and config files are separeted in the folders.
 - PSU 5v: Mean well MDR-40-5
 - Display: Type B Mini 12864 Display
 - Replay: [Shelly 1PM+](https://github.com/jontek2/HVT0097-klipper_config/blob/main/moonraker.conf#L44-L50)
-- CAN: BTT EBB36 v1.2 + BTT U2C
+- CAN: BTT EBB36 v1.2 w/ BTT U2C
 - Camera: USB Camera Module 120 degree Wide Angle OV5640
 
-### Toolhead
-- Rapido UHF
-- Mantis toolhead w/ sherpa mini extruder
+## Toolhead
+- Hotend: Rapido UHF
+- Toolhead: Mantis toolhead w/ sherpa mini extruder
 - Hotend fan: Sunon MF30060V21000UA99
 - Partcooling fan: 2 of GDStime 5015
 - Extruder motor: LDO-36STH20-1004AHG
 
 ## Bed
--  Keenovo silicone AC heater (300mm x 300mm 600W 220V/240V)
--  SSR Omron G3NA-210B-UTU-DC5-24
+- Heater pad: Keenovo silicone AC heater (300mm x 300mm 600W 220V/240V)
+- SSR: Omron G3NA-210B-UTU-DC5-24
+- Buildplate: Custom 340x340x8mm buildplate 
 
 ## Other
 
-- Mini 12864 LCD
+- Display: Mini 12864 LCD
 - Emergency stop button
 
 ## Modifications
